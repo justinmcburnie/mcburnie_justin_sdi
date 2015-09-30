@@ -13,5 +13,6 @@ var myWork          ="Amazon.com";
 //outputs
 
 console.log(Hello my name is myFirstName + myLastName);
-console.log(I have +myKids kids who are 4 and 2. )
-console.log(I am enrolled in the + myDegreeProgram)
+console.log(I have +myKids kids who are 4 and 2. );
+console.log(I am enrolled in the + myDegreeProgram);
+console.log(I work for + myWork and have been there a year.);
