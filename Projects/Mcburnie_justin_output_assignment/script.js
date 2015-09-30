@@ -13,3 +13,4 @@ var myWork          ="Amazon.com";
 //outputs
 
 console.log(myFirstName);
+console.log
