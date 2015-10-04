@@ -6,6 +6,7 @@
         <entryData>
           <resourceRoots>
             <path value="file://$PROJECT_DIR$" />
+            <path value="file://$PROJECT_DIR$/Projects/Expressions_worksheet" />
             <path value="file://$PROJECT_DIR$/Projects/Mcburnie_justin_output_assignment" />
             <path value="file://$PROJECT_DIR$/Projects" />
           </resourceRoots>

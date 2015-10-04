@@ -12,7 +12,7 @@ var myWork          = "Amazon.com";
 
 //outputs
 
-console.log("Hello my name is " + myFirstName  + myLastName)
-console.log("I am currently enrolled in " +myDegreeProgram)
-console.log("For the last year i have worked for " +myWork)
-console.log("Finally i have " + myKids)
+console.log("Hello my name is " + myFirstName +" "+ myLastName);
+console.log("I am currently enrolled in " +myDegreeProgram);
+console.log("For the last year i have worked for " +myWork);
+console.log(myKids);
