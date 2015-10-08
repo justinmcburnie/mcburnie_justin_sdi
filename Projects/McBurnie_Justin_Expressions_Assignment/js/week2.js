@@ -16,5 +16,6 @@ console.log("Your total gross pay for the month will be "+'$'+ payTotal+".");
 //I tried 15 for wage, 35 hours worked, 2 weeks
 //I tried 20 for wage  50, 4 weeks
 //I did 14.15 for wage 40 hours worked, and 4 weeks payed for.
+//I did 35 wage 50 hours 4 weeks
 
 
