@@ -21,13 +21,13 @@ var age       = prompt("Enter Age:.");
 
 if (age >= 55 || age <= 10) {
 
-   console.log("7");
+   console.log("Ticket price is $77");
 }else{
-    console.log("12");
+    console.log("Ticket price is $12");
 }
 
-if (timeMovie = 3 && timeMovie <= 5) {
+if (3 === timeMovie || timeMovie <= 5) {
     console.log("Ticket Price is $7.");
 }else{
-    console.log("12");
+    console.log("Ticket price is $12");
 }
