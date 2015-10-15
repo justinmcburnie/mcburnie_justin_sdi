@@ -24,7 +24,14 @@ if (budget === ""){
 }if (purchase === ""){
     purchase = prompt("Please answer question.");
 }
+
+
 (purchase) ? "Enjoy": "Keep looking";
+console.log(purchase);
+
+
+
+
 if(carTotal <= budget){
     console.log("We Can buy the car!");
     if(carTotal< budget) {
