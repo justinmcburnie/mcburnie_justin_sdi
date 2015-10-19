@@ -24,12 +24,9 @@ if (budget === ""){
 }if (purchase === ""){
     purchase = prompt("Please answer question.");
 }
+purchase = confirm("Are you happy with your purchase(ok for yes cancel for no");
 
-
-(purchase) ? "Enjoy": "Keep looking";
-console.log(purchase);
-
-
+(purchase) ? "Enjoy" : "Keep Looking";
 
 
 if(carTotal <= budget){
