@@ -2,8 +2,9 @@
 // worksheet
 
 function calcCircum(){
-    var radius = 5;
+    var radius = prompt("please enter radius");
     var pie = 3.14;
-    circumCircle = (radius * 2 *pie);
+    circumCircle = (radius * 2 * pie);
+    console.log(circumCircle);
 }
 calcCircum();
